@@ -1,0 +1,328 @@
+Total Bootstraps 30
+Num Species 4
+FragmentLength 26; Section Length 50
+BEL; LPLT; WBD; WSD
+Bootstrap 0
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 1.0
+0.6667; 0.3333; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1200; 0.8800; 0.0000
+Bootstrap 1
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 2.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1304; 0.8696; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.6667; 0.3333; 0.0000
+0.0000; 0.0000; 0.0533; 0.9467; 0.0000
+Bootstrap 2
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 3.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.2174; 0.7826; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0667; 0.9333; 0.0000
+Bootstrap 3
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 4.0
+0.6667; 0.3333; 0.0000; 0.0000; 0.0000
+0.1739; 0.8261; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0933; 0.9067; 0.0000
+Bootstrap 4
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 5.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0435; 0.9565; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0533; 0.9467; 0.0000
+Bootstrap 5
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 6.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1304; 0.8696; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.6667; 0.3333; 0.0000
+0.0000; 0.0000; 0.0133; 0.9867; 0.0000
+Bootstrap 6
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 7.0
+0.6667; 0.3333; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0533; 0.9467; 0.0000
+Bootstrap 7
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 8.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0435; 0.9565; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0533; 0.9467; 0.0000
+Bootstrap 8
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 9.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0435; 0.9565; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1200; 0.8800; 0.0000
+Bootstrap 9
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 10.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0435; 0.9565; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0133; 0.0800; 0.9067; 0.0000
+Bootstrap 10
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 11.0
+0.6667; 0.0000; 0.3333; 0.0000; 0.0000
+0.1304; 0.8696; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.6667; 0.3333; 0.0000
+0.0000; 0.0000; 0.0667; 0.9333; 0.0000
+Bootstrap 11
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 12.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1739; 0.8261; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.6667; 0.3333; 0.0000
+0.0000; 0.0133; 0.0533; 0.9333; 0.0000
+Bootstrap 12
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 13.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0870; 0.9130; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.6667; 0.3333; 0.0000
+0.0000; 0.0133; 0.0267; 0.9600; 0.0000
+Bootstrap 13
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 14.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0870; 0.9130; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1067; 0.8933; 0.0000
+Bootstrap 14
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 15.0
+0.3333; 0.3333; 0.3333; 0.0000; 0.0000
+0.0435; 0.9565; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0533; 0.9467; 0.0000
+Bootstrap 15
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 16.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1304; 0.8696; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1467; 0.8533; 0.0000
+Bootstrap 16
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 17.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0435; 0.9565; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0933; 0.9067; 0.0000
+Bootstrap 17
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 18.0
+0.6667; 0.3333; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.6667; 0.3333; 0.0000
+0.0000; 0.0000; 0.0400; 0.9600; 0.0000
+Bootstrap 18
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 19.0
+0.6667; 0.3333; 0.0000; 0.0000; 0.0000
+0.1304; 0.8696; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.6667; 0.3333; 0.0000
+0.0133; 0.0133; 0.0533; 0.9200; 0.0000
+Bootstrap 19
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 20.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0870; 0.8696; 0.0435; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1200; 0.8800; 0.0000
+Bootstrap 20
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 21.0
+0.6667; 0.3333; 0.0000; 0.0000; 0.0000
+0.1304; 0.8696; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1067; 0.8933; 0.0000
+Bootstrap 21
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 22.0
+0.6667; 0.3333; 0.0000; 0.0000; 0.0000
+0.0435; 0.9565; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0800; 0.9200; 0.0000
+Bootstrap 22
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 23.0
+0.6667; 0.3333; 0.0000; 0.0000; 0.0000
+0.1739; 0.8261; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1200; 0.8800; 0.0000
+Bootstrap 23
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 24.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0667; 0.9333; 0.0000
+Bootstrap 24
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 25.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0870; 0.9130; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1600; 0.8400; 0.0000
+Bootstrap 25
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 26.0
+0.6667; 0.3333; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.6667; 0.3333; 0.0000
+0.0000; 0.0000; 0.0133; 0.9867; 0.0000
+Bootstrap 26
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 27.0
+0.6667; 0.3333; 0.0000; 0.0000; 0.0000
+0.1304; 0.8696; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.6667; 0.3333; 0.0000
+0.0133; 0.0133; 0.0400; 0.9333; 0.0000
+Bootstrap 27
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 28.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.2609; 0.7391; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1067; 0.8933; 0.0000
+Bootstrap 28
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 29.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0435; 0.9565; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0133; 0.0267; 0.9600; 0.0000
+Bootstrap 29
+Run BEL with 5 training and 3 tests
+Run LPLT with 44 training and 23 tests
+Run WBD with 4 training and 3 tests
+Run WSD with 150 training and 75 tests
+Confusion Matrix 30.0
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0870; 0.9130; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0133; 0.0133; 0.0933; 0.8800; 0.0000
+Mean confusion
+0.8556; 0.1222; 0.0222; 0.0000; 0.0000
+0.0899; 0.9087; 0.0014; 0.0000; 0.0000
+0.0000; 0.0000; 0.9000; 0.1000; 0.0000
+0.0013; 0.0031; 0.0760; 0.9196; 0.0000
+STD Confusion
+0.1894; 0.1634; 0.0846; 0.0000; 0.0000
+0.0684; 0.0688; 0.0079; 0.0000; 0.0000
+0.0000; 0.0000; 0.1554; 0.1554; 0.0000
+0.0041; 0.0057; 0.0384; 0.0370; 0.0000
+Lower 95% CI
+0.3333; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.7391; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.6667; 0.0000; 0.0000
+0.0000; 0.0000; 0.0133; 0.8400; 0.0000
+Upper 95% CI
+1.0000; 0.3333; 0.3333; 0.0000; 0.0000
+0.2609; 1.0000; 0.0435; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.3333; 0.0000
+0.0133; 0.0133; 0.1600; 0.9867; 0.0000
+Run BEL with 8 training and 0 tests
+Run LPLT with 67 training and 0 tests
+Run WBD with 7 training and 0 tests
+Run WSD with 225 training and 0 tests

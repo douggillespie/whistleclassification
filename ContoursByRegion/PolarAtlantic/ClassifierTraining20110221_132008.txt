@@ -1,0 +1,2727 @@
+Total Bootstraps 300
+Num Species 4
+BEL; LPLT; WBD; WSD
+Bootstrap 0
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 1
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 2
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 3
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 4
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 5
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 6
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 7
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 8
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1277; 0.8723; 0.0000
+Bootstrap 9
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 10
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 11
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0426; 0.9362; 0.0000
+Bootstrap 12
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 13
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 14
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 15
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 16
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 17
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 18
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 19
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 20
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 21
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 22
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 23
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 24
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 25
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 26
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 27
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 28
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0213; 0.9574; 0.0000
+Bootstrap 29
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0213; 0.9574; 0.0000
+Bootstrap 30
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 31
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 32
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 33
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 34
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 35
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 36
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 37
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 38
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 39
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 40
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0851; 0.8936; 0.0000
+Bootstrap 41
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 42
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1277; 0.8723; 0.0000
+Bootstrap 43
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1489; 0.8511; 0.0000
+Bootstrap 44
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 45
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 46
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.0000; 0.5000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 47
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 48
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 49
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 50
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 51
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 52
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 53
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 54
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 55
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 56
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 57
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 58
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1702; 0.8298; 0.0000
+Bootstrap 59
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 60
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 61
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 62
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 63
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 64
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 65
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0426; 0.9362; 0.0000
+Bootstrap 66
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 67
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 68
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 69
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 70
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 71
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 72
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 73
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 74
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 75
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 76
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 77
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 78
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 79
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 80
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 81
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0213; 0.9574; 0.0000
+Bootstrap 82
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 83
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.0000; 0.5000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 84
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 85
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 86
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 87
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 88
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 89
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 90
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 91
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 92
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 93
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0213; 0.9574; 0.0000
+Bootstrap 94
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 95
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 96
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 97
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 98
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 99
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 100
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 101
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 102
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 103
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 104
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 105
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 106
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 107
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 108
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 109
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 110
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1489; 0.8511; 0.0000
+Bootstrap 111
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 112
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0213; 0.9574; 0.0000
+Bootstrap 113
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 114
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 115
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 116
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 117
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.0000; 0.5000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 118
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 119
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 120
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0213; 0.9574; 0.0000
+Bootstrap 121
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 122
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 123
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 124
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 125
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 126
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 127
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 128
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 129
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 130
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 131
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 132
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 133
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0426; 0.9362; 0.0000
+Bootstrap 134
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 135
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 136
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 137
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 138
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.0000; 0.5000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 139
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 140
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0426; 0.9362; 0.0000
+Bootstrap 141
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 142
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 143
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 144
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 145
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 146
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 147
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 148
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 149
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 150
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 151
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 152
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 153
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 154
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1702; 0.8298; 0.0000
+Bootstrap 155
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 156
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 157
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 158
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 159
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 160
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 161
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 162
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 163
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 164
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 165
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 166
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 167
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 168
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 169
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 170
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 171
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 172
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 173
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1489; 0.8511; 0.0000
+Bootstrap 174
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 175
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 176
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 177
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 178
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 179
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 180
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0213; 0.9574; 0.0000
+Bootstrap 181
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 182
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 183
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 184
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 185
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 186
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 187
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 188
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 189
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 190
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 191
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 192
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 193
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0638; 0.9149; 0.0000
+Bootstrap 194
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 195
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 196
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1277; 0.8723; 0.0000
+Bootstrap 197
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0213; 0.9574; 0.0000
+Bootstrap 198
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 199
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 200
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 201
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 202
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 203
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 204
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 205
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 206
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 207
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 208
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 209
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 210
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 211
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 212
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 213
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 214
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 215
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 216
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0426; 0.9362; 0.0000
+Bootstrap 217
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 218
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 219
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 220
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 221
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 222
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 223
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.0000; 0.5000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 224
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 225
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 226
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 227
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 228
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 229
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 230
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 231
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1489; 0.8511; 0.0000
+Bootstrap 232
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 233
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 234
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 235
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 236
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 237
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 238
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 239
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 240
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 241
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 242
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 243
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 244
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0426; 0.9362; 0.0000
+Bootstrap 245
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 246
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1702; 0.8298; 0.0000
+Bootstrap 247
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0426; 0.9362; 0.0000
+Bootstrap 248
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 249
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 250
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 251
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 252
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 253
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 254
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 255
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 256
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 257
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 258
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 259
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 260
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 261
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 262
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.0000; 0.5000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0426; 0.9362; 0.0000
+Bootstrap 263
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 264
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 265
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 266
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 267
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1064; 0.8936; 0.0000
+Bootstrap 268
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 269
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 270
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 271
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 272
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 273
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0000; 0.9787; 0.0000
+Bootstrap 274
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 275
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 276
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 1.0000; 0.0000
+Bootstrap 277
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 278
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.0000; 0.5000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 279
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 280
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 281
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 282
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 283
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 284
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 285
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 286
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.1429; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 287
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 288
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 289
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 290
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 291
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 292
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+0.5000; 0.5000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0426; 0.9574; 0.0000
+Bootstrap 293
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0213; 0.9787; 0.0000
+Bootstrap 294
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 295
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.5000; 0.0000
+0.0000; 0.0000; 0.0638; 0.9362; 0.0000
+Bootstrap 296
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 297
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0851; 0.9149; 0.0000
+Bootstrap 298
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0213; 0.9574; 0.0000
+Bootstrap 299
+Run BEL with 2 training and 2 tests
+Run LPLT with 28 training and 14 tests
+Run WBD with 3 training and 2 tests
+Run WSD with 93 training and 47 tests
+1.0000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0714; 0.9286; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.0000; 0.0000
+0.0213; 0.0000; 0.0213; 0.9574; 0.0000
+Mean confusion
+0.9233; 0.0650; 0.0117; 0.0000; 0.0000
+0.0262; 0.9738; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.9333; 0.0667; 0.0000
+0.0032; 0.0000; 0.0469; 0.9499; 0.0000
+STD Confusion
+0.1935; 0.1824; 0.0755; 0.0000; 0.0000
+0.0420; 0.0420; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.1972; 0.1972; 0.0000
+0.0076; 0.0000; 0.0349; 0.0328; 0.0000
+Lower 95% CI
+0.5000; 0.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.8571; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 0.5000; 0.0000; 0.0000
+0.0000; 0.0000; 0.0000; 0.8617; 0.0000
+Upper 95% CI
+1.0000; 0.5000; 0.2500; 0.0000; 0.0000
+0.1429; 1.0000; 0.0000; 0.0000; 0.0000
+0.0000; 0.0000; 1.0000; 0.5000; 0.0000
+0.0213; 0.0000; 0.1383; 1.0000; 0.0000
+Run BEL with 4 training and 0 tests
+Run LPLT with 42 training and 0 tests
+Run WBD with 5 training and 0 tests
+Run WSD with 140 training and 0 tests
